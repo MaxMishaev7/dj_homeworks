@@ -16,5 +16,5 @@ class ProductAdmin(admin.ModelAdmin):
 
 admin.site.register(Product, ProductAdmin)
 
-#superuser=maxim
+#superuser=max
 #password=hecQWk1974Gmr

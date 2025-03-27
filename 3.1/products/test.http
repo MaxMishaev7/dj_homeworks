@@ -1,0 +1,11 @@
+GET http://localhost:8000/api/product-all/
+
+###
+
+GET http://localhost:8000/api/product-detail/2/
+
+###
+
+GET http://localhost:8000/api/product-detail/3/
+
+###
